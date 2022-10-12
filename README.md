@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @03sana
-- I learned c and c++
-- 🌱 I’m currently learning web-development
-- 💞️ I’m sharing my small projects on this platform.
+
 
 
 <!---
